@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "индексы_таблиц_бд/README.md",
+                "file": "транзакции/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "индексы_таблиц_бд/README.md",
+                "file": "транзакции/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "индексы_таблиц_бд/README.md",
+                "file": "транзакции/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "индексы_таблиц_бд/README.md",
+                "file": "транзакции/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "437d28173a570180",
+  "active": "bc63f5883cf763d3",
   "lastOpenFiles": [
+    "механизм_заданий/README.md",
+    "индексы_таблиц_бд/README.md",
     "индексы_таблиц_бд/_index.md"
   ]
 }
